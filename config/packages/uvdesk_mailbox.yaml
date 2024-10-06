@@ -7,7 +7,7 @@ uvdesk_mailbox:
     
     # Configure your mailboxes here
     mailboxes:
-        mailbox_3345:
+        mailbox_3342:
             name: Gmail
             enabled: true
             deleted: false
@@ -15,12 +15,12 @@ uvdesk_mailbox:
             # [SMTP] Outgoing mail server
             # Swiftmailer smtp mailer to use for sending emails through on behalf of this mailbox
             smtp_server: 
-                mailer_id: mailer_6729
+                mailer_id: mailer_2565
 
             # [IMAP] Incoming mail server
             # IMAP configurations to use for fetching emails from mailbox
             imap_server:
-                host: '{imap.gmail.com:993/imap/ssl}INBOX'
+                host: '{imap.gmail.com:993/imap/ssl/novalidate-cert}INBOX'
                 username: arilystagent@gmail.com
-                password: Y3B1ZsKgeGVlY8KgaXJsecKganR6dA==
+                password: Y3B1ZiB4ZWVjIGlybHkganR6dA==
 

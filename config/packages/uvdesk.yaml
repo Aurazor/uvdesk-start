@@ -24,7 +24,7 @@ uvdesk:
     support_email:
         id: arilystagent@gmail.com
         name: UVDesk Community
-        mailer_id: mailer_6729
+        mailer_id: mailer_2565
     
     # Default resources
     default:

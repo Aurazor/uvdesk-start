@@ -1,10 +1,10 @@
 swiftmailer:
-    default_mailer: mailer_6729
+    default_mailer: mailer_2565
     mailers:
-        mailer_6729:
+        mailer_2565:
             transport: gmail
             username: arilystagent@gmail.com
-            password: Y3B1ZsKgeGVlY8KgaXJsecKganR6dA==
+            password: Y3B1ZiB4ZWVjIGlybHkganR6dA==
             # sender_address: ~
             # delivery_addresses: ~
             disable_delivery: false
